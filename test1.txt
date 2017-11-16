@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B682-00AA
+
+ Directory of C:\Users\peter\Desktop\Mytestproject
+
+16/11/2017  14:14    <DIR>          .
+16/11/2017  14:14    <DIR>          ..
+16/11/2017  14:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,562,336,419,840 bytes free
